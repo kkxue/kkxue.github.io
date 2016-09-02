@@ -1,2 +1,1 @@
-# kkxue.github.io
-my tech site
+Gal Sagie blog repository`
