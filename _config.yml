@@ -8,19 +8,19 @@ highlighter:         rouge
 permalink:           /:year/:month/:day/:title/
 
 # Setup
-title:               'GalSagie'
-name:                'Gal Sagie Blog'
-tagline:             'A blog about network virtualization and cloud'
+title:               'KKXUE'
+name:                'KKXUE Blog'
+tagline:             'A blog about Practise in SDN and OpenStack'
 description:         'My blog about everything related to SDN, NFV, Virtualization and Cloud'
-url:                 http://galsagie.github.io
+url:                 http://kkxue.github.io
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Gal Sagie
-  url:               https://galsagie.github.io
-  email:             gal.sagie@gmail.com
+  name:              KKXUE
+  url:               https://kkxue.github.io
+  email:             xueguanwen@gmail.com
 
 # Custom vars
 version:             1.0.0
