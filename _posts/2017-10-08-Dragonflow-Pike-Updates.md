@@ -47,11 +47,12 @@ tags:
 
 ### 开发人员动态
 目前主要是下面两位在做开发
-omeranson(PTL)
-dimakuz
+- omeranson(PTL)
+- dimakuz
+
 之前的这两位似乎离开DF核心开发
-li-ma (已经从Awcloud跳到Fiberhome)
-huihongxiao(已经从Huawei跳到VMware)
+- li-ma (已经从Awcloud跳到Fiberhome)
+- huihongxiao(已经从Huawei跳到VMware)
 
 
 
