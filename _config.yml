@@ -10,9 +10,9 @@ permalink:           /:year/:month/:day/:title/
 # Setup
 title:               'KKXUE'
 name:                'KKXUE Blog'
-tagline:             'A blog about Practise in SDN and OpenStack'
-description:         'My blog about everything related to SDN, NFV, Virtualization and Cloud'
-url:                 http://kkxue.github.io
+tagline:             'A blog about coding pratice'
+description:         'My blog about coding pratice'
+url:                 https://kkxue.github.io
 baseurl:             /
 paginate:            5
 
